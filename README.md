@@ -1,0 +1,2 @@
+# UsingGitOnly
+Only using terminal
